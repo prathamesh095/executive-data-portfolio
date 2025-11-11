@@ -11,7 +11,6 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://prathamesh-portfolio.vercel.app"),
   title: {
     default: "Prathamesh Sanjay Pawar | Data Analyst & Data Scientist",
     template: "%s | Prathamesh Portfolio",
@@ -27,7 +26,6 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://prathamesh-portfolio.vercel.app",
     siteName: "Prathamesh Portfolio",
     images: [
       {
