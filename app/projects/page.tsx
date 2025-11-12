@@ -1,7 +1,7 @@
 // app/projects/page.tsx
 import { Navigation } from "@/components/navigation"
 import { Footer } from "@/components/footer"
-import { ProjectsGrid } from "@/components/projects-grid"
+import { ProjectsGrid } from "@/components/projects/ProjectsGrid"
 // Removed: import { ProjectFilters } from "@/components/project-filters"
 
 export const metadata = {
