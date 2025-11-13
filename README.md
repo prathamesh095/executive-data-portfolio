@@ -252,5 +252,6 @@ MIT © 2025 — Prathamesh Sanjay Pawar
 
 # 📬 Contact  
 Portfolio: https://v0-executive-data-portfolio.vercel.app/  
-Email: (your email here)  
-LinkedIn: (your LinkedIn)
+Email: pawarprathamesh095@gmail.com  
+
+
